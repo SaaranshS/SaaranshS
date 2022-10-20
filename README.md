@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>Reset Button</h2>
+<h2>Form</h2>
 
 <p>The <strong>input type="reset"</strong> defines a reset button that resets all form values to their default values:</p>
 
